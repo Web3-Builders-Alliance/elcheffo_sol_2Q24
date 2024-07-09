@@ -1,4 +1,4 @@
-# Incentive Capstone project
+# Capstone project (Moar)
 
 - Incentive program
 - Saving vault example program
