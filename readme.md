@@ -3,6 +3,22 @@
 - Incentive program
 - Saving vault example program
 
+```
+Deploying program "incentive"...
+Program Id: 64bSZcVx54KcXHpgLCLmKxruc2aqVxu39pbTdnXpwjC7
+
+Deploying program "saving_vault_example"...
+Program Id: 6FvjgrcvzzDe74je4b5mY82B8ETtHx4i8Be2NRMq7ypy
+```
+
+### Quick start
+
+Tests will setup a reward rule, interact with a saving vault where user can deposit SOL, by interacting with the vault, vault will uses CPI to trigger reward rules.
+
+```sh
+anchor test
+```
+
 ## Incentives program
 
 Incentives are created and managed by Incentives program
