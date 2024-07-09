@@ -5,10 +5,10 @@
 
 ```
 Deploying program "incentive"...
-Program Id: 64bSZcVx54KcXHpgLCLmKxruc2aqVxu39pbTdnXpwjC7
+Program Id: CK2YUNfec9XdLXYYHVhUChPoqLij3jLaTi1QJCfwgxPW
 
 Deploying program "saving_vault_example"...
-Program Id: 6FvjgrcvzzDe74je4b5mY82B8ETtHx4i8Be2NRMq7ypy
+Program Id: HLCMYovVzdfy6is934NaAxa4XgCsGbqmEPyfHV8rzJta
 ```
 
 ### Quick start
@@ -16,6 +16,7 @@ Program Id: 6FvjgrcvzzDe74je4b5mY82B8ETtHx4i8Be2NRMq7ypy
 Tests will setup a reward rule, interact with a saving vault where user can deposit SOL, by interacting with the vault, vault will uses CPI to trigger reward rules.
 
 ```sh
+pnpm i
 anchor test
 ```
 

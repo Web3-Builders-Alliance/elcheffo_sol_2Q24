@@ -8,6 +8,10 @@ skip-lint = false
 incentive = "CK2YUNfec9XdLXYYHVhUChPoqLij3jLaTi1QJCfwgxPW"
 saving_vault_example = "HLCMYovVzdfy6is934NaAxa4XgCsGbqmEPyfHV8rzJta"
 
+[programs.devnet]
+incentive = "CK2YUNfec9XdLXYYHVhUChPoqLij3jLaTi1QJCfwgxPW"
+saving_vault_example = "HLCMYovVzdfy6is934NaAxa4XgCsGbqmEPyfHV8rzJta"
+
 [registry]
 url = "https://api.apr.dev"
 
